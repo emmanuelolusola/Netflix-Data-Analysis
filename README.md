@@ -7,6 +7,7 @@
 * From 2008 to 2021, there was a 39.4% rise in movie uploads to Netflix as compared to TV show uploads, according to a pie chart.
 
 * The United States, India, and the United Kingdom are the countries with the most American movies available on Netflix, respectively. Additionally, it has the most TV episodes from the United States, with Pakistan coming in second and the United Kingdom coming in third.
+![overall_top20_countries](https://user-images.githubusercontent.com/94241498/195754065-545931ad-080d-4df0-9860-97d6b89243ad.png)
 
 * According to the overall top 20 genre barchart, Netflix has the most titles in the "Dramas, International Movies" genre, followed by "Crime TV Shows, International TV Shows, TV Dramas" in second place and "Stand-Up Comedy" in third. One of the key findings is that the majority of TV programs are designed for children's television.
 
