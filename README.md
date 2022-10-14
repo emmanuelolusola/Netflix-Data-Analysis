@@ -1,4 +1,4 @@
-# Netflix-Data-Analysis
+# Netflix-Data-Analysis by Oyeleke Emmanuel Olusola
 ## Documentation on Netflix Data Analysis of Movies and TV shows released from 2008 - 2021 (14 years)
 
 ### Below are some observations after visualizing the data with Matplotlib in Google Colab Notebook
