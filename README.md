@@ -2,7 +2,8 @@
 ##Documentation on Netflix Data Analysis of Movies and TV shows released from 2008 - 2021 (14 years)
 
 ###Below are some observations after visualizing the data with Matplotlib in Google Colab Notebook
-A pie chart comparing Netflix movie uploads to TV show uploads from 2008 to 2021 reveals a 39.4% increase in movie uploads.
+
+* A pie chart comparing Netflix movie uploads to TV show uploads from 2008 to 2021 reveals a 39.4% increase in movie uploads.
 
 Netflix has the most movies from the United States, followed by India in second place and the United Kingdom in third place. It also has the most TV episodes from the United States, followed by Pakistan in second place and the United Kingdom in third place.
 
