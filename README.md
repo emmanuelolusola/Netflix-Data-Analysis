@@ -13,6 +13,7 @@
 ![overall_top20_genre](https://user-images.githubusercontent.com/94241498/195754159-b4f7ae1d-439d-40bf-bde1-6addf987e875.png)
 
 * The bulk of the shows, or 36.5% of them, have TV-MA ratings, according to the overall rating distribution donut chart, which shows that TV-14 ratings come in second. Parental Recommendations indicate content, and a R rating at the third R classification means that the movie contains violence, sexual content, or language that is offensive to children.
+![overall_ratings_distribution](https://user-images.githubusercontent.com/94241498/195754452-f59dcc8b-c97e-4b2c-b6b9-fdbf02b04e45.png)
 
 * 33.7% of movies get TV-MA ratings, according to the donut chart of movie ratings. The TV-MA classification signifies that the program is intended for mature viewers. The second-highest number of shows are classed as TV-14, which means that Parental Guidelines indicates content for mature audiences, and the third-highest number of series are rated R, which suggests that they are inappropriate for children to watch due to violence, profanity, or sexual behavior.
 
