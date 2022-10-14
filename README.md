@@ -1,5 +1,6 @@
 # Netflix-Data-Analysis
 ## Documentation on Netflix Data Analysis of Movies and TV shows released from 2008 - 2021 (14 years)
+![types_of_show](https://user-images.githubusercontent.com/94241498/195753925-c246c303-0aa0-448b-9ebb-34c93f6c1049.png)
 
 ### Below are some observations after visualizing the data with Matplotlib in Google Colab Notebook
 
