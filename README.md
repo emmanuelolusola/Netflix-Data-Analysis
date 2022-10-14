@@ -1,7 +1,7 @@
 # Netflix-Data-Analysis
-##Documentation on Netflix Data Analysis of Movies and TV shows released from 2008 - 2021 (14 years)
+## Documentation on Netflix Data Analysis of Movies and TV shows released from 2008 - 2021 (14 years)
 
-###Below are some observations after visualizing the data with Matplotlib in Google Colab Notebook
+### Below are some observations after visualizing the data with Matplotlib in Google Colab Notebook
 
 * From 2008 to 2021, there was a 39.4% rise in movie uploads to Netflix as compared to TV show uploads, according to a pie chart.
 
