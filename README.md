@@ -10,6 +10,7 @@
 ![overall_top20_countries](https://user-images.githubusercontent.com/94241498/195754065-545931ad-080d-4df0-9860-97d6b89243ad.png)
 
 * According to the overall top 20 genre barchart, Netflix has the most titles in the "Dramas, International Movies" genre, followed by "Crime TV Shows, International TV Shows, TV Dramas" in second place and "Stand-Up Comedy" in third. One of the key findings is that the majority of TV programs are designed for children's television.
+![overall_top20_genre](https://user-images.githubusercontent.com/94241498/195754159-b4f7ae1d-439d-40bf-bde1-6addf987e875.png)
 
 * The bulk of the shows, or 36.5% of them, have TV-MA ratings, according to the overall rating distribution donut chart, which shows that TV-14 ratings come in second. Parental Recommendations indicate content, and a R rating at the third R classification means that the movie contains violence, sexual content, or language that is offensive to children.
 
