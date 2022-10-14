@@ -19,6 +19,7 @@
 ![movies_ratings_distribution](https://user-images.githubusercontent.com/94241498/195754631-53a5e1bc-195e-440c-b7a3-ba55e762be48.png)
 
 * According to the TV rating distribution donut chart, 42.9% of films and TV shows have the TV-MA rating, indicating that they are intended for mature viewers. The second-most programs are classified TV-14, which means that they should be watched under parental supervision, and the third-most programs are rated TV-PG, which indicates that they should be watched with adult supervision.
+![tv_ratings_distribution](https://user-images.githubusercontent.com/94241498/195754848-e67ed01f-8370-41e6-b747-d986469cf22f.png)
 
 * According to the release month barchart, Netflix regularly publishes new series all throughout the year.
 
