@@ -22,6 +22,7 @@
 ![tv_ratings_distribution](https://user-images.githubusercontent.com/94241498/195754848-e67ed01f-8370-41e6-b747-d986469cf22f.png)
 
 * According to the release month barchart, Netflix regularly publishes new series all throughout the year.
+![release_per_month](https://user-images.githubusercontent.com/94241498/195754935-7b6d5c77-e5a5-49ea-bb46-9393a75b5fea.png)
 
 * We can see from the release per year linechart that Netflix started to add shows in significant numbers in 2014.
 
